@@ -2,6 +2,7 @@ package Lesson9_Frame6_Subscriber;
 
 public class Demo {
     public static void main(String[] args) {
+
         ConcretePublisher newspaper = new ConcretePublisher("newspaper");
         ConcretePublisher magazine = new ConcretePublisher("magazine");
 
